@@ -1,0 +1,26 @@
+[
+    {
+        "name": "tasmia",
+        "age": 21,
+        "email": "tasmia@gmail.com",
+        "pin": 5678,
+        "account_no": "Wu282F&%",
+        "Balance": 20000
+    },
+    {
+        "name": "raif",
+        "age": 22,
+        "email": "raif@gmail.com",
+        "pin": 2345,
+        "account_no": "2d&B@16x",
+        "Balance": 0
+    },
+    {
+        "name": "raif",
+        "age": 21,
+        "email": "raif@gmail.com",
+        "pin": 4567,
+        "account_no": "03@3c^TP",
+        "Balance": 0
+    }
+]
